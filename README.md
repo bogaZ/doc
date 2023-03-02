@@ -9,7 +9,7 @@
 ### Planning
 
 - SETUP [FE] Kurirmoo
-- Change SETUP ticket from [Mobile & BE] to [FE & BE] because in Backlog i assign to do [FE] Ticket
+- Change ticket(setup) from [Mobile & BE] to [FE & BE] because in Backlog i assign to do [FE] Ticket
 - Do my [FE] Ticket to create views tabel 
 
 ### Execution
