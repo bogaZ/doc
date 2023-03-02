@@ -1,10 +1,27 @@
-# SETUP Kurirmoo
+# SETUP [FE] Kurirmoo
 
 ### Requirement
 
-## [FE]
+- npm
 
-## [BE]
+### Planning
+
+- Change ticket(setup) from [Mobile & BE] to [FE & BE] because in Backlog i assign to do [FE] Ticket
+- SETUP [FE] Kurirmoo
+- Do my [FE] Ticket to create views tabel 
+
+### Execution
+
+### Blocker
+
+- Can't acces Ticket and Repository for setup 
+- Setup doesn't match what I'm going to do so, i have to change ticket(Setup) from [Mobile & BE] to [FE & BE]
+
+### evidence dari accepted criteria
+
+# SETUP [BE] Kurirmoo
+
+### Requirement
 
 - Go
 - jq
@@ -12,15 +29,9 @@
 
 ### Planning
 
-## [FE]
-
 - Change ticket(setup) from [Mobile & BE] to [FE & BE] because in Backlog i assign to do [FE] Ticket
 - SETUP [FE] Kurirmoo
 - Do my [FE] Ticket to create views tabel 
-
-## [BE]
-
-- Change ticket(setup) from [Mobile & BE] to [FE & BE] because in Backlog i assign to do [FE] Ticket
 
 ### Execution
 
