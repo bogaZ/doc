@@ -22,7 +22,7 @@
 
 ### evidence from accepted criteria
 
-- [Screenshoot installing npm]()
+- [Screenshoot installing npm](https://drive.google.com/file/d/10u_Nd7O-xenqZL-r-1lOdj8644f2OOMF/view?usp=share_link)
 
 # SETUP [BE] Kurirmoo
 
