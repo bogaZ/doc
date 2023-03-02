@@ -54,4 +54,4 @@
 
 ### evidence from accepted criteria
 
-- [Screenshoot installing Go](https://drive.google.com/file/d/1UyILQ6ys4lHOoQ6iVgdFvk3dACGOegQ4/view?usp=share_link)
+- [Screenshoot installing all of Requirement](https://drive.google.com/file/d/1UyILQ6ys4lHOoQ6iVgdFvk3dACGOegQ4/view?usp=share_link)
