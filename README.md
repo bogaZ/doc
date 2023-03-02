@@ -19,6 +19,8 @@
 
 ### evidence dari accepted criteria
 
+- -
+
 # SETUP [BE] Kurirmoo
 
 ### Requirement
