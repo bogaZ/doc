@@ -12,6 +12,8 @@
 
 ### Execution
 
+- [x] Install npm
+
 ### Blocker
 
 - Can't acces Ticket and Repository for setup 
@@ -19,7 +21,7 @@
 
 ### evidence dari accepted criteria
 
-#
+
 
 # SETUP [BE] Kurirmoo
 
