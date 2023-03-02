@@ -30,8 +30,7 @@
 ### Planning
 
 - Change ticket(setup) from [Mobile & BE] to [FE & BE] because in Backlog i assign to do [FE] Ticket
-- SETUP [FE] Kurirmoo
-- Do my [FE] Ticket to create views tabel 
+- Learn to add endpoint API use Swagger
 
 ### Execution
 
