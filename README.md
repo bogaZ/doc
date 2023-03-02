@@ -55,3 +55,4 @@
 ### evidence from accepted criteria
 
 - [Screenshoot installing all of Requirement](https://drive.google.com/file/d/1UyILQ6ys4lHOoQ6iVgdFvk3dACGOegQ4/view?usp=share_link)
+- [Screenshoot running kurirmoo local server](https://drive.google.com/file/d/1cfAbuMaVowxocmjjqr1O9kPkWKCu0RWS/view?usp=share_link)
