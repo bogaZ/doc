@@ -53,3 +53,5 @@
 - Setup doesn't match what I'm going to do so, i have to change ticket(Setup) from [Mobile & BE] to [FE & BE]
 
 ### evidence from accepted criteria
+
+- [Screenshoot installing Go](https://drive.google.com/file/d/1UyILQ6ys4lHOoQ6iVgdFvk3dACGOegQ4/view?usp=share_link)
