@@ -19,7 +19,7 @@
 
 ### evidence dari accepted criteria
 
-- -
+- 
 
 # SETUP [BE] Kurirmoo
 
@@ -28,6 +28,8 @@
 - Go
 - jq
 - Swagger
+- GORM
+- PostgreSQL Server
 
 ### Planning
 
@@ -36,7 +38,11 @@
 
 ### Execution
 
-[x]
+- [x] Install Go
+- [x] Install JQ
+- [x] Install Swagger
+- [x] Install GORM
+- [x] Install PostgreSQL Server
 
 ### Blocker
 
