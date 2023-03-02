@@ -21,7 +21,7 @@
 
 ### evidence dari accepted criteria
 
-
+- Screenshoot installing npm
 
 # SETUP [BE] Kurirmoo
 
