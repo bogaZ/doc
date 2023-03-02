@@ -1,6 +1,10 @@
-# SETUP [BE] Kurirmoo
+# SETUP Kurirmoo
 
 ### Requirement
+
+## [FE]
+
+## [BE]
 
 - Go
 - jq
@@ -8,9 +12,15 @@
 
 ### Planning
 
-- SETUP [FE] Kurirmoo
+## [FE]
+
 - Change ticket(setup) from [Mobile & BE] to [FE & BE] because in Backlog i assign to do [FE] Ticket
+- SETUP [FE] Kurirmoo
 - Do my [FE] Ticket to create views tabel 
+
+## [BE]
+
+- Change ticket(setup) from [Mobile & BE] to [FE & BE] because in Backlog i assign to do [FE] Ticket
 
 ### Execution
 
