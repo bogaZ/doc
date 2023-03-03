@@ -17,9 +17,6 @@
 
 ### Blocker
 
-- Can't acces Ticket and Repository for setup 
-- Setup doesn't match what I'm going to do so, i have to change ticket(Setup) from [Mobile & BE] to [FE & BE]
-
 ### evidence from accepted criteria
 
 - [Screenshoot installing npm](https://drive.google.com/file/d/10u_Nd7O-xenqZL-r-1lOdj8644f2OOMF/view?usp=share_link)
@@ -46,11 +43,9 @@
 - [x] Install Swagger
 - [x] Install GORM
 - [x] Install PostgreSQL Server
+- [x] Running BE Kurirmoo on local server
 
 ### Blocker
-
-- Can't acces Ticket and Repository for setup 
-- Setup doesn't match what I'm going to do so, i have to change ticket(Setup) from [Mobile & BE] to [FE & BE]
 
 ### evidence from accepted criteria
 
